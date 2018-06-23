@@ -3,7 +3,7 @@ from flask import jsonify, render_template
 from bs4 import BeautifulSoup, Tag
 import json
 
-ABSOLUTE_PATH = 'Absolute path of the folder'
+ABSOLUTE_PATH = 'Absolute path of the tutorial_annotation_tool folder'
 ANNOTATION_PATH = 'Folder to store annotations'
 HTML_PATH = 'Folder that stores original HTML files'
 
