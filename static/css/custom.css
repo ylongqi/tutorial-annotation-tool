@@ -1,0 +1,23 @@
+.exp_navbar{ 
+    overflow: auto; 
+    background-color: #c4c4c4; 
+    z-index: 999999; position: fixed; 
+    top: 0;
+    left: 0;
+    width: 50%; 
+    height: 100%; 
+    text-align: left; 
+    font-size: 120%;
+}
+
+.exp_main { margin-left: 50%; }
+
+.remove-all-styles {
+    font-size: 20px;
+    margin: 0px;
+    padding: 5px;
+}
+
+.exp_buttons {
+    font-size: 12px;
+}
